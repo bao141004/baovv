@@ -1,0 +1,10 @@
+git init //tạo ra 1 repo trong máy
+git clone // lấy từ trên mạng về
+git pull //đồng bộ từ trên mạng về máy
+ 
+git add và git add . //thêm file sửa file
+git commit // thêm vào repo trong máy
+git push // đồng bộ từ máy lên repo trên mạng 
+
+git log và git status // check trạng thái trong file 
+git log - decorate - graph - oneline
